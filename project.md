@@ -254,5 +254,3 @@ You write tests, right?
     deps: babel-core 5.8.5, merge 1.2.0; 
     dev: litpro 0.9.3, litpro-jshint 0.2.1,
     literate-programming-cli-test 0.5.1 ")
-
-
